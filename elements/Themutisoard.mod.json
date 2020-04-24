@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "thesoard",
+    "customModelName": "Normal",
+    "name": "Themutisoard",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 100,
+    "efficiency": 18.5,
+    "attackSpeed": 31.700000000000003,
+    "enchantability": 131,
+    "damageVsEntity": 4.0,
+    "usageCount": 156,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "Items.COAL#0"
+      }
+    ]
+  }
+}

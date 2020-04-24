@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "colinsmod:blocks/colinsblock",
+    "up": "colinsmod:blocks/colinsblock",
+    "north": "colinsmod:blocks/colinsblock",
+    "east": "colinsmod:blocks/colinsblock",
+    "south": "colinsmod:blocks/colinsblock",
+    "west": "colinsmod:blocks/colinsblock",
+    "particle": "colinsmod:blocks/colinsblock"
+  }
+}

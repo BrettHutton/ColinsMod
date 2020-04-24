@@ -1,0 +1,73 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "ColinArmor",
+      "type": "armor",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Theblock",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Themutisoard",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Themultisoard",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.colinsmod.theblock": "Theblock",
+      "item.colinsmod.themutisoard": "Themutisoard",
+      "item.colinsmod.themultisoard": "Themultisoard",
+      "item.colinsmod.colinarmorlegs": "Colin Armor Leggings",
+      "item.colinsmod.colinarmorhelmet": "Colin Armor Helmet",
+      "item.colinsmod.colinarmorboots": "Colin Armor Boots",
+      "item.colinsmod.colinarmorbody": "Colin Armor Body"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "colinsmod",
+    "modName": "ColinsMod",
+    "version": "1.0.0",
+    "author": "colinhutton, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.14.4",
+    "modElementsPackage": "net.mcreator.colinsmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}

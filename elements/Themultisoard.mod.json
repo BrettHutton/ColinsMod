@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "themultisoard",
+    "customModelName": "Normal",
+    "name": "Themultisoard",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 84,
+    "efficiency": 31.5,
+    "attackSpeed": 31.900000000000002,
+    "enchantability": 28,
+    "damageVsEntity": 100.0,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.FEATHER"
+      }
+    ]
+  }
+}
