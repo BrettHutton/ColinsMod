@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "colinsmod:blocks/rdfrosting",
+    "up": "colinsmod:blocks/rdfrosting",
+    "north": "colinsmod:blocks/rdfrosting",
+    "east": "colinsmod:blocks/rdfrosting",
+    "south": "colinsmod:blocks/rdfrosting",
+    "west": "colinsmod:blocks/rdfrosting",
+    "particle": "colinsmod:blocks/rdfrosting"
+  }
+}

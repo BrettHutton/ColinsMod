@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "thesongdisk",
+    "name": "Thesong",
+    "description": "use for prancks",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "block.dispenser.launch"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

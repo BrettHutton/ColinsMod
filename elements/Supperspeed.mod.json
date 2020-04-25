@@ -1,0 +1,24 @@
+{
+  "_fv": 6,
+  "_type": "potion",
+  "definition": {
+    "name": "Supperspeed",
+    "effectName": "Supperspeed",
+    "icon": "rainbowlava.png",
+    "color": {
+      "value": -65485,
+      "falpha": 0.0
+    },
+    "isInstant": true,
+    "isBad": false,
+    "isBenefitical": true,
+    "registerPotionType": true,
+    "curativeItems": [
+      {
+        "value": "Items.MILK_BUCKET"
+      }
+    ],
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true
+  }
+}

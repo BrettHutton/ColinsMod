@@ -38,6 +38,78 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "Killerrabbit",
+      "type": "mob",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Colinspickaxe",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Cupcake",
+      "type": "food",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Thesong",
+      "type": "musicdisc",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Redfrosting",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Cupcakd",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Cupcaka",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Rainbowlava",
+      "type": "fluid",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Supperspeed",
+      "type": "potion",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -45,10 +117,25 @@
   "language_map": {
     "en_us": {
       "block.colinsmod.theblock": "Theblock",
-      "item.colinsmod.themutisoard": "Themutisoard",
+      "item.colinsmod.thesong": "Thesong",
       "item.colinsmod.themultisoard": "Themultisoard",
+      "item.colinsmod.colinspickaxe": "Colinspickaxe",
       "item.colinsmod.colinarmorlegs": "Colin Armor Leggings",
+      "entity.colinsmod.killerrabbit": "Killerrabbit",
       "item.colinsmod.colinarmorhelmet": "Colin Armor Helmet",
+      "item.colinsmod.cupcake": "Cupcake",
+      "fluid.rainbowlava": "Rainbowlava",
+      "item.minecraft.lingering_potion.effect.supperspeed": "Lingering Supperspeed",
+      "item.colinsmod.thesong.desc": "use for prancks",
+      "item.colinsmod.rainbowlava_bucket": "Rainbowlava Bucket",
+      "item.colinsmod.killerrabbit": "Killerrabbit Spawn Egg",
+      "block.colinsmod.redfrosting": "Redfrosting",
+      "item.minecraft.splash_potion.effect.supperspeed": "Splash Supperspeed",
+      "item.colinsmod.themutisoard": "Themutisoard",
+      "item.minecraft.potion.effect.supperspeed": "Supperspeed",
+      "item.minecraft.tipped_arrow.effect.supperspeed": "Arrow of Supperspeed",
+      "block.colinsmod.cupcakd": "Cupcakd",
+      "effect.supperspeed": "Supperspeed",
       "item.colinsmod.colinarmorboots": "Colin Armor Boots",
       "item.colinsmod.colinarmorbody": "Colin Armor Body"
     }

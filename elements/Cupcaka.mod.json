@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 31,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Redfrosting"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Redfrosting"
+      },
+      {
+        "value": "CUSTOM:Redfrosting"
+      },
+      {
+        "value": "CUSTOM:Redfrosting"
+      },
+      {
+        "value": "CUSTOM:Cupcakd"
+      },
+      {
+        "value": "CUSTOM:Cupcakd"
+      },
+      {
+        "value": "CUSTOM:Cupcakd"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Cupcake"
+    },
+    "name": "cupcake",
+    "namespace": "mod"
+  }
+}

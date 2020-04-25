@@ -1,0 +1,36 @@
+{
+  "group": "colinsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "colinsmod:redfrosting"
+    },
+    "3": {
+      "item": "colinsmod:redfrosting"
+    },
+    "4": {
+      "item": "colinsmod:redfrosting"
+    },
+    "5": {
+      "item": "colinsmod:redfrosting"
+    },
+    "6": {
+      "item": "colinsmod:cupcakd"
+    },
+    "7": {
+      "item": "colinsmod:cupcakd"
+    },
+    "8": {
+      "item": "colinsmod:cupcakd"
+    }
+  },
+  "result": {
+    "item": "colinsmod:cupcake",
+    "count": 31
+  }
+}
