@@ -1,0 +1,30 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "grapplegun",
+    "customModelName": "Normal",
+    "name": "Grapple Gun",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Special",
+    "harvestLevel": 90,
+    "efficiency": 33.5,
+    "attackSpeed": 10.0,
+    "enchantability": 72,
+    "damageVsEntity": 13.299999999999999,
+    "usageCount": 129,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.LEAD"
+      }
+    ],
+    "onRightClickedInAir": {
+      "name": "GrappleGunRightClickedInAir"
+    }
+  }
+}

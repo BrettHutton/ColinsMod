@@ -110,6 +110,25 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "GrappleGunRightClickedInAir",
+      "type": "procedure",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "GrappleGun",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -137,7 +156,8 @@
       "block.colinsmod.cupcakd": "Cupcakd",
       "effect.supperspeed": "Supperspeed",
       "item.colinsmod.colinarmorboots": "Colin Armor Boots",
-      "item.colinsmod.colinarmorbody": "Colin Armor Body"
+      "item.colinsmod.colinarmorbody": "Colin Armor Body",
+      "item.colinsmod.grapplegun": "Grapple Gun"
     }
   },
   "workspaceSettings": {
