@@ -50,7 +50,7 @@ import net.minecraft.entity.EntityClassification;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.CreatureAttribute;
 import net.minecraft.entity.AgeableEntity;
-import net.minecraft.client.renderer.entity.model.CowModel;
+import net.minecraft.client.renderer.entity.model.ChickenModel;
 import net.minecraft.client.renderer.entity.MobRenderer;
 import net.minecraft.block.BlockState;
 
@@ -69,7 +69,7 @@ public class KillerrabbitEntity extends ColinsModElements.ModElement {
 	@Override
 	public void initElements() {
 		entity = (EntityType.Builder.<CustomEntity>create(CustomEntity::new, EntityClassification.CREATURE).setShouldReceiveVelocityUpdates(true)
-				.setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new).size(0.9f, 1.4f)).build("killerrabbit")
+				.setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new).size(0.5f, 0.7f)).build("killerrabbit")
 						.setRegistryName("killerrabbit");
 		elements.entities.add(() -> entity);
 		elements.items
@@ -95,9 +95,9 @@ public class KillerrabbitEntity extends ColinsModElements.ModElement {
 	@OnlyIn(Dist.CLIENT)
 	public void registerModels(ModelRegistryEvent event) {
 		RenderingRegistry.registerEntityRenderingHandler(CustomEntity.class, renderManager -> {
-			return new MobRenderer(renderManager, new CowModel(), 0.5f) {
+			return new MobRenderer(renderManager, new ChickenModel(), 0.5f) {
 				protected ResourceLocation getEntityTexture(Entity entity) {
-					return new ResourceLocation("colinsmod:textures/creen_hot_2020-03-15_at_5.23.26_.png");
+					return new ResourceLocation("colinsmod:textures/killer_rabbet_texture.png");
 				}
 			};
 		});

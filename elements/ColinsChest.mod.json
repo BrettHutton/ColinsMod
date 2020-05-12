@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "loottable",
+  "definition": {
+    "type": "Generic",
+    "pools": [
+      {
+        "minrolls": 1,
+        "maxrolls": 83,
+        "minbonusrolls": 1,
+        "maxbonusrolls": 83,
+        "hasbonusrolls": false,
+        "entries": [
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Cupcake"
+            },
+            "weight": 11
+          }
+        ]
+      }
+    ],
+    "name": "colinschest",
+    "namespace": "mod"
+  }
+}

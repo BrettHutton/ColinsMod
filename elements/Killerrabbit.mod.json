@@ -4,10 +4,10 @@
   "definition": {
     "mobName": "Killerrabbit",
     "mobLabel": "",
-    "mobModelTexture": "creen_hot_2020-03-15_at_5.23.26_.png",
-    "mobModelName": "Cow",
-    "modelWidth": 0.9,
-    "modelHeight": 1.4,
+    "mobModelTexture": "killer_rabbet_texture.png",
+    "mobModelName": "Chicken",
+    "modelWidth": 0.5,
+    "modelHeight": 0.7,
     "modelShadowSize": 0.5,
     "armorBaseValue": 0.0,
     "hasSpawnEgg": true,
@@ -43,7 +43,7 @@
     "equipmentBoots": {
       "value": ""
     },
-    "mobBehaviourType": "Mob",
+    "mobBehaviourType": "Creature",
     "mobCreatureType": "UNDEFINED",
     "attackStrength": 3,
     "movementSpeed": 0.3,

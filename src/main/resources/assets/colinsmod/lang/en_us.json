@@ -1,7 +1,7 @@
 {
   "item.colinsmod.thesong": "Thesong",
-  "item.colinsmod.themultisoard": "Themultisoard",
   "item.colinsmod.colinspickaxe": "Colinspickaxe",
+  "item.colinsmod.themultisoard": "Themultisoard",
   "item.colinsmod.colinarmorlegs": "Colin Armor Leggings",
   "entity.colinsmod.killerrabbit": "Killerrabbit",
   "item.colinsmod.cupcake": "Cupcake",
@@ -14,6 +14,8 @@
   "item.colinsmod.colinarmorboots": "Colin Armor Boots",
   "item.colinsmod.colinarmorbody": "Colin Armor Body",
   "item.colinsmod.grapplegun": "Grapple Gun",
+  "item.colinsmod.thenew": "The New Portal Igniter",
+  "item.colinsmod.grapplegum": "Grapplegum",
   "block.colinsmod.theblock": "Theblock",
   "item.colinsmod.colinarmorhelmet": "Colin Armor Helmet",
   "fluid.rainbowlava": "Rainbowlava",

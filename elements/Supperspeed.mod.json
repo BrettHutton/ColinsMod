@@ -19,6 +19,9 @@
       }
     ],
     "renderStatusInInventory": true,
-    "renderStatusInHUD": true
+    "renderStatusInHUD": true,
+    "onStarted": {
+      "name": "SupperspeedPotionStartedapplied"
+    }
   }
 }

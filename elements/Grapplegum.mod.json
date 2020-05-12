@@ -1,0 +1,38 @@
+{
+  "_fv": 6,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "grapplegun",
+    "customModelName": "Normal",
+    "name": "Grapplegum",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:Thesong"
+    },
+    "shootConstantly": true,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 6.199999999999999,
+    "bulletPower": 3.0,
+    "bulletDamage": 8.2,
+    "bulletKnockback": 36,
+    "bulletParticles": true,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Thesong"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "GrapplegumBulletHitsBlock"
+    }
+  }
+}
