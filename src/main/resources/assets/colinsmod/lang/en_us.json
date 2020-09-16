@@ -1,11 +1,13 @@
 {
   "item.colinsmod.thesong": "Thesong",
-  "item.colinsmod.colinspickaxe": "Colinspickaxe",
   "item.colinsmod.themultisoard": "Themultisoard",
+  "item.colinsmod.colinspickaxe": "Colinspickaxe",
+  "biome.colinsmod.kingland": "Kingland",
   "item.colinsmod.colinarmorlegs": "Colin Armor Leggings",
   "entity.colinsmod.killerrabbit": "Killerrabbit",
   "item.colinsmod.cupcake": "Cupcake",
   "item.minecraft.lingering_potion.effect.supperspeed": "Lingering Supperspeed",
+  "item.colinsmod.richworld": "Richworld Portal Igniter",
   "item.colinsmod.rainbowlava_bucket": "Rainbowlava Bucket",
   "item.minecraft.splash_potion.effect.supperspeed": "Splash Supperspeed",
   "item.colinsmod.themutisoard": "Themutisoard",
@@ -24,5 +26,6 @@
   "block.colinsmod.redfrosting": "Redfrosting",
   "item.colinsmod.killerrabbit": "Killerrabbit Spawn Egg",
   "item.minecraft.potion.effect.supperspeed": "Supperspeed",
-  "block.colinsmod.cupcakd": "Cupcakd"
+  "block.colinsmod.cupcakd": "Cupcakd",
+  "itemGroup.tabcolinsmodstuff": "Colins mod stuff"
 }

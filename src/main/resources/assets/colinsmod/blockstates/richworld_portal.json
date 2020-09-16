@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "colinsmod:block/richworld_portal_ew"
+    },
+    "axis=x": {
+      "model": "colinsmod:block/richworld_portal_ns"
+    }
+  }
+}
